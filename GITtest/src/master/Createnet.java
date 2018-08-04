@@ -1,9 +1,13 @@
 package master;
 
+import org.testng.annotations.Test;
+
 public class Createnet {
 
-	public static void main(String[] args) {
+	@Test
+	public void main() {
 		// TODO Auto-generated method stub
+		System.out.println("alex");
 		
 
 	}
